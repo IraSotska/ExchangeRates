@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ExchangeRates</string>
+    <string name="privat_bank_name">ПриватБанк</string>
+    <string name="valute_name">Валюта</string>
+    <string name="valute_buy">Покупка</string>
+    <string name="valute_sell">Продажа</string>
+    <string name="usd_valute_name">USD</string>
+    <string name="eur_valute_name">EUR</string>
+    <string name="rub_valute_name">RUB</string>
+    <string name="gbp_valute_name">GBP</string>
+    <string name="plz_valute_name">PLZ</string>
+    <string name="huf_valute_name">HUF</string>
+
+</resources>
